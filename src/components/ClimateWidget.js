@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 
 const api = {
+  // must change to run as the key is personal
   key: "77069b8e5568cabb6affa2971ba119a1",
   base: "https://api.openweathermap.org/data/2.5/"
 }
